@@ -1,0 +1,11 @@
+
+======================================
+Traceback (most recent call last):
+  File "D:\FozilbekAI_TelegramBot\bot.py", line 921, in <module>
+    main()
+  File "D:\FozilbekAI_TelegramBot\bot.py", line 823, in main
+    print(
+  File "C:\Users\Student 01\AppData\Local\Programs\Python\Python311\Lib\encodings\cp1251.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\U0001f30c' in position 6: character maps to <undefined>
